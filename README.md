@@ -1,1 +1,1 @@
-# typescript-todo-list
+npm init -y
